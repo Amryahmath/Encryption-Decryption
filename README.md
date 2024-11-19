@@ -59,6 +59,4 @@ Contributions are welcome! If you have suggestions for new features or improveme
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
----
 
-Feel free to customize this description further based on the exact implementation details of your program!
